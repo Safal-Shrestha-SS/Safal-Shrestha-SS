@@ -18,6 +18,7 @@
 - [Flutter: Communicating with the Native Platform](https://dev.to/safalshrestha109/flutter-communicating-with-the-native-platform-15ki)
 - [Debouncing in Flutter](https://medium.com/codingmountain-blog/debouncing-in-flutter-ed74847e17ff?source=rss-2e4c41af903b------2)
 - [AndroidManifest.xml : Overview](https://medium.com/codingmountain-blog/androidmanifest-xml-overview-26aaedf9f974?source=rss-2e4c41af903b------2)
+- [Publish and upgrade your Flutter Package on pub.dev](https://dev.to/codingmountain/publish-and-upgrade-your-flutter-package-on-pubdev-2ilc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
