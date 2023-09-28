@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Safal Shrestha</h1>
-<h3 align="center">A passionate Mobile developer from Nepal.My expertise lies in Flutter and Android Developement, and I bring a solid understanding of SwiftUI to the table.</h3>
+<h3 align="center">A passionate Mobile developer from Nepal. My expertise lies in Flutter and Android development.</h3>
 
 - 🔭 I’m currently working on **something amazing 😜**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go and SwiftUI**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@safalshrestha721156) and [Dev](https://dev.to/safalshrestha109)
+  
+- 💬 Ask me about **Flutter, Jetpack Compose, Android Development.**
 
 - 📫 How to reach me **safalshrestha721156@gmail.com**
   
@@ -14,7 +16,6 @@
 #
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter: Communicating with the Native Platform](https://medium.com/codingmountain-blog/flutter-communicating-with-the-native-platform-ef2326d985c8?source=rss-2e4c41af903b------2)
 - [Flutter: Communicating with the Native Platform](https://dev.to/safalshrestha109/flutter-communicating-with-the-native-platform-15ki)
 - [Debouncing in Flutter](https://medium.com/codingmountain-blog/debouncing-in-flutter-ed74847e17ff?source=rss-2e4c41af903b------2)
 - [AndroidManifest.xml : Overview](https://medium.com/codingmountain-blog/androidmanifest-xml-overview-26aaedf9f974?source=rss-2e4c41af903b------2)
