@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Safal Shrestha</h1>
 <h3 align="center">A passionate Mobile developer from Nepal.My expertise lies in Flutter and Android Developement, and I bring a solid understanding of SwiftUI to the table.</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@safalshrestha721156](https://medium.com/@safalshrestha721156)
+- 🔭 I’m currently working on **something amazing 😜**
+
+- 🌱 I’m currently learning **Go**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@safalshrestha721156) and [Dev](https://dev.to/safalshrestha109)
 
 - 📫 How to reach me **safalshrestha721156@gmail.com**
+  
+- ⚡ Fun fact **I ❤️ 🎮 Dota 2 and Anime**
 
+#
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter: Communicating with the Native Platform](https://medium.com/codingmountain-blog/flutter-communicating-with-the-native-platform-ef2326d985c8?source=rss-2e4c41af903b------2)
@@ -19,6 +26,7 @@
 <a href="https://linkedin.com/in/safal-shretha-a08306216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safal-shretha-a08306216" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/safal-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="safal-shrestha" height="30" width="40" /></a>
 <a href="https://medium.com/@safalshrestha721156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@safalshrestha721156" height="30" width="40" /></a>
+<a href="https://hashnode.com/@successsupreme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@successsupreme" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safal-shrestha-ss&show_icons=true&locale=en&layout=compact" alt="safal-shrestha-ss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safal-shrestha-ss&show_icons=true&locale=en" alt="safal-shrestha-ss" /></p>
