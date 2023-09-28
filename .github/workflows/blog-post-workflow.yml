@@ -13,4 +13,4 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_names: "Medium, Dev"
-                feed_list: "https://medium.com/feed/@safalshrestha721156, https://dev.to/safalshrestha109"
+                feed_list: "https://medium.com/feed/@safalshrestha721156, https://dev.to/feed/safalshrestha109"
