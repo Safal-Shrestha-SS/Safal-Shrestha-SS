@@ -16,11 +16,11 @@
 #
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Platform Channels](https://dev.to/safalshrestha109/flutter-platform-channels-pgi)
 - [Flutter Platform Channels](https://medium.com/codingmountain-blog/flutter-platform-channels-6e78c2fc75dc?source=rss-2e4c41af903b------2)
 - [Flutter: Communicating with the Native Platform](https://medium.com/codingmountain-blog/flutter-communicating-with-the-native-platform-ef2326d985c8?source=rss-2e4c41af903b------2)
 - [Flutter: Communicating with the Native Platform](https://dev.to/safalshrestha109/flutter-communicating-with-the-native-platform-15ki)
 - [Debouncing in Flutter](https://medium.com/codingmountain-blog/debouncing-in-flutter-ed74847e17ff?source=rss-2e4c41af903b------2)
-- [AndroidManifest.xml : Overview](https://medium.com/codingmountain-blog/androidmanifest-xml-overview-26aaedf9f974?source=rss-2e4c41af903b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
