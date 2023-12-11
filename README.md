@@ -17,10 +17,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Platform Channels](https://dev.to/safalshrestha109/flutter-platform-channels-pgi)
-- [Flutter Platform Channels](https://medium.com/codingmountain-blog/flutter-platform-channels-6e78c2fc75dc?source=rss-2e4c41af903b------2)
-- [Flutter: Communicating with the Native Platform](https://medium.com/codingmountain-blog/flutter-communicating-with-the-native-platform-ef2326d985c8?source=rss-2e4c41af903b------2)
 - [Flutter: Communicating with the Native Platform](https://dev.to/safalshrestha109/flutter-communicating-with-the-native-platform-15ki)
-- [Debouncing in Flutter](https://medium.com/codingmountain-blog/debouncing-in-flutter-ed74847e17ff?source=rss-2e4c41af903b------2)
+- [Publish and upgrade your Flutter Package on pub.dev](https://dev.to/codingmountain/publish-and-upgrade-your-flutter-package-on-pubdev-2ilc)
+- [Dart enhanced enum with custom values](https://dev.to/safalshrestha109/dart-enhanced-enum-with-custom-values-1g9i)
+- [Learning TDD with Clean Architecture for Flutter Part IV](https://dev.to/codingmountain/learning-tdd-with-clean-architecture-for-flutter-part-iv-16b4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
