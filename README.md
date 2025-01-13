@@ -18,9 +18,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rive: An Introduction for Beginners and Integration Guide for Flutter Apps](https://medium.com/codingmountain-blog/rive-an-introduction-for-beginners-and-integration-guide-for-flutter-apps-f9a12d0a1bc5?source=rss-2e4c41af903b------2)
 - [Developing Flutter Plugin for Android and iOS](https://medium.com/codingmountain-blog/developing-flutter-plugin-for-android-and-ios-90e72f427cc0?source=rss-2e4c41af903b------2)
+- [Flutter Platform Channels](https://dev.to/safalshrestha109/flutter-platform-channels-pgi)
 - [Flutter Platform Channels](https://medium.com/codingmountain-blog/flutter-platform-channels-6e78c2fc75dc?source=rss-2e4c41af903b------2)
 - [Flutter: Communicating with the Native Platform](https://medium.com/codingmountain-blog/flutter-communicating-with-the-native-platform-ef2326d985c8?source=rss-2e4c41af903b------2)
-- [Debouncing in Flutter](https://medium.com/codingmountain-blog/debouncing-in-flutter-ed74847e17ff?source=rss-2e4c41af903b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
